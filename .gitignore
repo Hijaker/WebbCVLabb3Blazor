@@ -1,0 +1,10 @@
+
+# Local configuration
+.env
+.env.*
+!.env.example
+**/local.settings.json
+**/appsettings.Local.json
+.idea/
+.vs/
+*.pubxml.user
